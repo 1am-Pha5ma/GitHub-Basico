@@ -6,13 +6,9 @@
 
 **Docente:** Ignacio Lavaggi
 
-<span class="git-tag">Git</span>
-<span class="git-tag">Windows</span>
-<span class="git-tag">Consola</span>
-<span class="git-tag">Ramas</span>
-<span class="git-tag">GitHub</span>
 
-Esta guía tiene como objetivo practicar los comandos básicos de Git desde consola. Los ejercicios están pensados para realizarse en orden, usando **CMD** o **PowerShell** en Windows.
+> [!IMPORTANT] 
+> Esta guía tiene como objetivo practicar los comandos básicos de Git desde consola. Los ejercicios están pensados para realizarse en orden, usando **CMD** o **PowerShell** en Windows.
 
 </div>
 
