@@ -6,7 +6,7 @@
 **Docente:** Ignacio Lavaggi
 
 
-> [!IMPORTANT] 
+> [!IMPORTANTE] 
 > Esta guía tiene como objetivo practicar los comandos básicos de Git desde consola. Los ejercicios están pensados para realizarse en orden, usando **CMD** o **PowerShell** en Windows.
 
 
